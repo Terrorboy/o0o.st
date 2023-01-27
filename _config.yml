@@ -1,2 +1,4 @@
 title: o0o.st
 redirect_to: https://github.com/terrorboy
+plugins:
+  - jekyll-redirect-from
